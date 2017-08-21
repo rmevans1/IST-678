@@ -4,6 +4,7 @@ IST 678- Business Intelligence & Analytics
 
 ## Contents
 #### Week 1
+* Week 1 Assignment.ipynb- this is the programming assignment for assignment 1. It provides an introduction to using pandas and python. In addition it works with the Movie 1M data set.
 #### Week 2
 #### Week 3
 #### Week 4
