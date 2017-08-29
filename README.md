@@ -4,7 +4,7 @@ IST 678- Business Intelligence & Analytics
 
 ## Contents
 #### Week 1
-* [Week 1 Assignment.ipynb]('Week 1/Week 1 Assignment.ipynb') - this is the programming assignment for assignment 1. It provides an introduction to using pandas and python. In addition it works with the Movie 1M data set.
+* [Week 1 Assignment.ipynb](Week-1/Week-1-Assignment.ipynb) - this is the programming assignment for assignment 1. It provides an introduction to using pandas and python. In addition it works with the Movie 1M data set.
 * Reading and Manipulating CSV Files.py- this is the program from the threaded discussion post. In this video tutorial csv files where opened and processed into an array. After this a set was created for each and the difference between each was printed out at the end.
 #### Week 2
 * Week 2 Assignment.ipynb- Programming assignemtn for week 2. Basic understanding of creating modifying data frames and creating graphs.
