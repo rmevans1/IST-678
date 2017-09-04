@@ -8,6 +8,7 @@ IST 678- Business Intelligence & Analytics
 * [Reading-and-Manipulating-CSV-Files.py](Week-1/Reading-and-Manipulating-CSV-Files.py) - this is the program from the threaded discussion post. In this video tutorial csv files where opened and processed into an array. After this a set was created for each and the difference between each was printed out at the end.
 #### Week 2
 * [Week-2-Assignment.ipynb](Week-2/Week-2-Assignment.ipynb) - Programming assignemtn for week 2. Basic understanding of creating modifying data frames and creating graphs.
+* [Pandas_Tutorial.ipynb](Week-2/Pandas_Tutorial.ipynb) - A quick video tutorial on the pandas library. Data from yahoo finance was loaded and then graphed.
 #### Week 3
 #### Week 4
 #### Week 5
