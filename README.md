@@ -10,6 +10,7 @@ IST 678- Business Intelligence & Analytics
 * [Week-2-Assignment.ipynb](Week-2/Week-2-Assignment.ipynb) - Programming assignment for week 2. Basic understanding of creating modifying data frames and creating graphs.
 * [Pandas_Tutorial.ipynb](Week-2/Pandas_Tutorial.ipynb) - A quick video tutorial on the pandas library. Data from yahoo finance was loaded and then graphed.
 #### Week 3
+* [Chapter_6_Application-oriented_Analyses_Using_Tax_Data.ipynb](Week-3/Chapter_6_Application-oriented_Analyses_Using_Tax_Data.ipynb) - Programming assignment for week 3. In this assignment tax data was analyzed. In addition to this several graphs were created to show the change over time.
 #### Week 4
 #### Week 5
 #### Week 6
