@@ -12,6 +12,7 @@ IST 678- Business Intelligence & Analytics
 #### Week 3
 * [Chapter_6_Application-oriented_Analyses_Using_Tax_Data.ipynb](Week-3/Chapter_6_Application-oriented_Analyses_Using_Tax_Data.ipynb) - Programming assignment for week 3. In this assignment tax data was analyzed. In addition to this several graphs were created to show the change over time.
 #### Week 4
+* [Driving_Visual_Analyses_with_Automobile_Data_Week_4.ipynb](Week-4/Driving_Visual_Analyses_with_Automobile_Data_Week_4.ipynb) - Analysis of automobile data with graphs and aggregation of data.
 #### Week 5
 #### Week 6
 #### Week 7
